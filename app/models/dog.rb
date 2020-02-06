@@ -6,3 +6,5 @@ class Dog
     @breed = breed
     @age = age
     @@all = []
+  end
+end
